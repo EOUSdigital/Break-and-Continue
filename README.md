@@ -436,6 +436,8 @@ Prompt:
 const num = [3, 5, 7, 2, 5, 9];
 ```
 
+---
+
 #### ☑️ Pseudocode 4
 
 ```js
@@ -452,8 +454,6 @@ DEFINE FUNCTION bannedWords(banned)
 
 bannedWords(banned);
 ```
-
----
 
 #### 🧮 Solution 4
 
