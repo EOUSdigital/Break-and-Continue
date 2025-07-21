@@ -89,7 +89,7 @@ These questions are designed to help you reason through how and why break and co
 Please reflect on or answer:
 
 🔹 A. How is break different from a loop condition?
-• Hint: When does a loop condition stop a loop versus when might break do it? 
+Hint: When does a loop condition stop a loop versus when might break do it? 
 Answer: A loop condition stops when the condition is met and runs completely. Using the "break" statement will immediately stop the loop at the point where it is executed, regardless of the loops condition.
 
 
